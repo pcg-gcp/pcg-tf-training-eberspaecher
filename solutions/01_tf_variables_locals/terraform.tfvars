@@ -1,0 +1,8 @@
+project_id    = "your-project-id"
+region        = "us-central1"
+zone          = "us-central1-a"
+instance_name = "terraform-training"
+machine_type  = "e2-micro"
+image         = "debian-cloud/debian-11"
+network_name  = "default"
+environment   = "dev"

@@ -1,0 +1,1 @@
+- GCS bucket creation: ```gsutil mb -p cw-marius-sandbox gs://marius-test-backend-47gt4```
